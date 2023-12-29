@@ -1,0 +1,4 @@
+Créer un fichier index.html
+! enter ou html5 : permet de creer le premier squelette du fichier (Structure html)
+Commentaire : seclectionner le commentaire et ctrl /
+
